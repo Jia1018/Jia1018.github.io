@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "life1.png"
   name             : "Ziqi Zhou"
   pronouns         : # example: "she/her"  
   bio              : "PhD student of CDT Machine Learning Systems"
-  location         : "Edinburgh"
+  location         : "Edinburgh, UK"
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "z7_zhou@outlook.com" 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Jia1018"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
