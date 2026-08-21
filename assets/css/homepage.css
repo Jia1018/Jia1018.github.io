@@ -365,6 +365,21 @@ html[data-theme="dark"] .exp-logo img {
   display: none;
 }
 
+/* with the name gone the avatar sat right on top of the icon rows */
+@media (min-width: 1024px) {
+  .sidebar .author__avatar {
+    margin-bottom: 1.1em;
+  }
+
+  .sidebar .author__urls-wrapper {
+    margin-top: 0.4em;
+  }
+
+  .author__urls li {
+    padding: 0.18em 0;
+  }
+}
+
 
 .sidebar p,
 .sidebar li,
