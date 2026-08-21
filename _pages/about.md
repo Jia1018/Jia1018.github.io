@@ -7,6 +7,124 @@ redirect_from:
   - /about.html
 ---
 
-I’m Ziqi Zhou, a first-year PhD student in the CDT for Machine Learning Systems at the University of Edinburgh, supervised by Professor [Laura Sevilla-Lara](https://laurasevilla.me/). I completed my bachelor’s degree in Computer Science and Technology at the University of Chinese Academy of Sciences, followed by a master’s degree at the Institute of Automation, Chinese Academy of Sciences, where I was co-supervised by Professor [Dong-Ming Yan](http://sites.google.com/site/yandongming/dong-ming-yans-homepage) and Professor [Weize Quan](https://weizequan.github.io/). During my studies, I worked on projects ranging from GCN-based mesh denoising to multimodal-driven and controllable talking face generation. I also gained industry experience through an internship at JD.com, where I worked on visual feature learning for advertisement recommendation systems.
+I am a PhD student in the [Machine Learning Systems CDT](https://informatics.ed.ac.uk/cdt-in-machine-learning-systems) at the University of Edinburgh, supervised by [Laura Sevilla-Lara](https://scholar.google.com/citations?user=bel5BBcAAAAJ&hl=en) and [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/). Before Edinburgh, I received my M.Eng. from the Institute of Automation, Chinese Academy of Sciences, advised by [Dong-Ming Yan](https://sites.google.com/site/yandongming/) and [Weize Quan](https://weizequan.github.io/), and my B.Eng. in Computer Science from the University of Chinese Academy of Sciences.
 
-These experiences have shaped my broader research interests in computer vision and multimodal learning, particularly in the intersection of understanding and generation with large-scale models. Going forward, I am eager to explore how these models can capture higher-level concepts such as aesthetics, controllability, and interpretability, and to apply them in creative and impactful ways.
+My research asks how visual models should represent the physical structure of the world, and how that structure can be made controllable. I currently work on **camera motion in video**: how a trajectory should be parameterised so that it stays aligned with geometry and with language at the same time, what camera-related structure large-scale pretrained video models have *already* learned, and whether a single camera representation can transfer across understanding, prediction and generation instead of being relearned for every task. More broadly, I am interested in whether meaningful physical structure emerges inside foundation-model representations, and how to make it accessible for spatial and embodied reasoning.
+
+My earlier work spans data-driven inverse problems in geometry processing, audio-driven talking-face generation, and composition-aware unified multimodal models. Different as they look, they share one question: what a model should represent explicitly, and what it should be left to infer.
+
+<div class="hp-links">
+  <a href="mailto:Ziqi.Zhou@ed.ac.uk"><i class="fas fa-envelope"></i>Email</a>
+  <a href="/files/Ziqi_Zhou_CV.pdf"><i class="fas fa-file-pdf"></i>CV</a>
+  <a href="https://scholar.google.com/citations?user=9-WlAsQAAAAJ"><i class="ai ai-google-scholar"></i>Google Scholar</a>
+  <a href="https://github.com/Jia1018"><i class="fab fa-github"></i>GitHub</a>
+</div>
+
+## <i class="fas fa-bullhorn"></i>News
+
+<div class="hp-news" markdown="0">
+  <ul>
+    <li><span class="date">2026.06</span><span>One paper accepted to <b>ECCV 2026</b>.</span></li>
+    <li><span class="date">2025.09</span><span>Started my PhD at the University of Edinburgh.</span></li>
+    <li><span class="date">2024.12</span><span>Two papers accepted to <b>AAAI 2025</b> and <b>ICASSP 2025</b>.</span></li>
+    <li><span class="date">2024.03</span><span>One paper accepted to <b>IEEE TVCG</b>.</span></li>
+  </ul>
+</div>
+
+## <i class="fas fa-file-lines"></i>Publications
+
+<div class="pub-list" markdown="0">
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/compass.jpg" alt="COMPASS teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://arxiv.org/abs/2606.28696">COMPASS: Grounding Composition-Intent Guidance in Unified Multimodal Models</a>
+      </div>
+      <div class="pub-authors">
+        <span class="me">Ziqi Zhou</span>, Weize Quan, Mining Tan, Zhihan Chen, Dandan Zheng, Jingdong Chen, Jun Zhou, Weiming Dong, Dong-Ming Yan
+      </div>
+      <div class="pub-venue"><span class="tag">ECCV 2026</span>European Conference on Computer Vision</div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2606.28696"><i class="fas fa-file-lines"></i>Paper</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/gohd.jpg" alt="GoHD teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33186">GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expressions</a>
+      </div>
+      <div class="pub-authors">
+        <span class="me">Ziqi Zhou</span>, Weize Quan, Hailin Shi, Wei Li, Lili Wang, Dong-Ming Yan
+      </div>
+      <div class="pub-venue"><span class="tag">AAAI 2025</span>AAAI Conference on Artificial Intelligence</div>
+      <div class="pub-links">
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33186"><i class="fas fa-file-lines"></i>Paper</a>
+        <a href="https://github.com/Jia1018/GoHD"><i class="fab fa-github"></i>Code</a>
+        <a href="https://youtu.be/c1FsPjHrEI0"><i class="fab fa-youtube"></i>Video</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/diffused-poses.jpg" alt="Diffused Poses and Distilled Expressions teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://ieeexplore.ieee.org/document/10887982/">Diffused Poses and Distilled Expressions for Controllable Audio-driven Talking Face Generation</a>
+      </div>
+      <div class="pub-authors">
+        <span class="me">Ziqi Zhou</span>, Weize Quan, Zhaojin Lu, Dong-Ming Yan
+      </div>
+      <div class="pub-venue"><span class="tag">ICASSP 2025</span>IEEE International Conference on Acoustics, Speech and Signal Processing</div>
+      <div class="pub-links">
+        <a href="https://ieeexplore.ieee.org/document/10887982/"><i class="fas fa-file-lines"></i>Paper</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/resgem.jpg" alt="ResGEM teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://ieeexplore.ieee.org/document/10474148">ResGEM: Multi-scale Graph Embedding Network for Residual Mesh Denoising</a>
+      </div>
+      <div class="pub-authors">
+        <span class="me">Ziqi Zhou</span>, Mengke Yuan, Mingyang Zhao, Jianwei Guo, Dong-Ming Yan
+      </div>
+      <div class="pub-venue"><span class="tag">TVCG 2024</span>IEEE Transactions on Visualization and Computer Graphics</div>
+      <div class="pub-links">
+        <a href="https://ieeexplore.ieee.org/document/10474148"><i class="fas fa-file-lines"></i>Paper</a>
+        <a href="https://github.com/Jia1018/ResGEM"><i class="fab fa-github"></i>Code</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+## <i class="fas fa-briefcase"></i>Experience
+
+<div class="hp-rows" markdown="0">
+  <div class="hp-row">
+    <div class="what"><b><a href="https://www.antgroup.com/">Ant Group</a></b>, Beijing<span class="sub">Academic Cooperative Researcher — unified multimodal models for visual understanding and generation</span></div>
+    <div class="when">May 2025 – Mar 2026</div>
+  </div>
+  <div class="hp-row">
+    <div class="what"><b><a href="https://corporate.jd.com/">JD.com</a></b>, Beijing<span class="sub">Research Intern — self-supervised and vision-language representation learning for creative ranking</span></div>
+    <div class="when">Mar 2024 – Jan 2025</div>
+  </div>
+  <div class="hp-row">
+    <div class="what"><b><a href="https://www.nio.cn/">NIO Inc.</a></b>, Beijing<span class="sub">Research Collaborator — audio-driven digital humans for in-car assistants</span></div>
+    <div class="when">Feb 2023 – Apr 2024</div>
+  </div>
+</div>
