@@ -15,10 +15,11 @@ Earlier I worked on data-driven inverse problems in geometry processing, audio-d
 
 <div class="hp-links">
   <a href="mailto:Ziqi.Zhou@ed.ac.uk"><i class="fas fa-envelope"></i>Email</a>
-  <a href="/files/Ziqi_Zhou_CV.pdf"><i class="fas fa-file-pdf"></i>CV</a>
   <a href="https://scholar.google.com/citations?user=9-WlAsQAAAAJ"><i class="ai ai-google-scholar"></i>Google Scholar</a>
   <a href="https://github.com/Jia1018"><i class="fab fa-github"></i>GitHub</a>
 </div>
+
+<p class="hp-note" markdown="0"><i class="fas fa-paper-plane"></i>I am open to <b>research internship</b> opportunities — feel free to <a href="mailto:Ziqi.Zhou@ed.ac.uk">get in touch</a>.</p>
 
 ## <i class="fas fa-bullhorn"></i>News
 
