@@ -244,3 +244,22 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.95em;
   opacity: 0.85;
 }
+
+/* ---------- chrome: hide the site title in the top bar, keep the theme toggle ---------- */
+.masthead__menu-item--lg {
+  display: none;
+}
+
+/* ---------- sidebar / masthead / footer follow the same typeface ---------- */
+.sidebar,
+.author__name,
+.author__bio,
+.author__urls,
+.author__urls a,
+.masthead__menu-item a,
+.page__title,
+.page__meta,
+.page__footer,
+.page__footer a {
+  font-family: "Source Serif 4", Charter, Georgia, "Times New Roman", serif;
+}
