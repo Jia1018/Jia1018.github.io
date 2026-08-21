@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD student in the [Machine Learning Systems CDT](https://informatics.ed.ac.uk/cdt-in-machine-learning-systems) at the University of Edinburgh, supervised by [Laura Sevilla-Lara](https://scholar.google.com/citations?user=bel5BBcAAAAJ&hl=en) and [Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/). Before Edinburgh, I received my M.Eng. from the Institute of Automation, Chinese Academy of Sciences, advised by [Dong-Ming Yan](https://sites.google.com/site/yandongming/) and [Weize Quan](https://weizequan.github.io/), and my B.Eng. in Computer Science from the University of Chinese Academy of Sciences.
 
-My research asks how visual models should represent the physical structure of the world, and how that structure can be made controllable. I currently work on **camera motion in video**: how a trajectory should be parameterised so that it stays aligned with geometry and with language at the same time, what camera-related structure large-scale pretrained video models have *already* learned, and whether a single camera representation can transfer across understanding, prediction and generation instead of being relearned for every task. More broadly, I am interested in whether meaningful physical structure emerges inside foundation-model representations, and how to make it accessible for spatial and embodied reasoning.
+My research is about how visual models represent the physical structure of the world, and how that structure can be made controllable. I currently focus on **camera motion in video**, and more broadly on whether such structure already emerges inside large pretrained models and can be reused across understanding, prediction and generation.
 
-My earlier work spans data-driven inverse problems in geometry processing, audio-driven talking-face generation, and composition-aware unified multimodal models. Different as they look, they share one question: what a model should represent explicitly, and what it should be left to infer.
+Earlier I worked on data-driven inverse problems in geometry processing, audio-driven talking-face generation, and composition-aware unified multimodal models — different problems, one question: what a model should represent explicitly, and what it should be left to infer.
 
 <div class="hp-links">
   <a href="mailto:Ziqi.Zhou@ed.ac.uk"><i class="fas fa-envelope"></i>Email</a>
