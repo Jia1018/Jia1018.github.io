@@ -361,8 +361,7 @@ html[data-theme="dark"] .exp-logo img {
 
 /* ---------- type scale tweaks: bigger sidebar, calmer intro ---------- */
 .sidebar .author__name {
-  font-size: 1.28em;
-  font-weight: 600;
+  display: none;   /* the name is already in the top bar */
 }
 
 .sidebar .author__bio {
