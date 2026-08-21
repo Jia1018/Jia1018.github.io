@@ -114,17 +114,29 @@ My earlier work spans data-driven inverse problems in geometry processing, audio
 
 ## <i class="fas fa-briefcase"></i>Experience
 
-<div class="hp-rows" markdown="0">
-  <div class="hp-row">
-    <div class="what"><b><a href="https://www.antgroup.com/">Ant Group</a></b>, Beijing<span class="sub">Academic Cooperative Researcher — unified multimodal models for visual understanding and generation</span></div>
-    <div class="when">May 2025 – Mar 2026</div>
+<div class="exp-list" markdown="0">
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.antgroup.com/"><img src="/images/logos/ant-group.png" alt="Ant Group"></a></div>
+    <div class="exp-body">
+      <div class="exp-role">Academic Cooperative Researcher</div>
+      <div class="exp-desc">Unified multimodal models for visual understanding and generation</div>
+    </div>
+    <div class="exp-when">May 2025 – Mar 2026</div>
   </div>
-  <div class="hp-row">
-    <div class="what"><b><a href="https://corporate.jd.com/">JD.com</a></b>, Beijing<span class="sub">Research Intern — self-supervised and vision-language representation learning for creative ranking</span></div>
-    <div class="when">Mar 2024 – Jan 2025</div>
+  <div class="exp">
+    <div class="exp-logo"><a href="https://corporate.jd.com/"><img src="/images/logos/jd.png" alt="JD.com"></a></div>
+    <div class="exp-body">
+      <div class="exp-role">Research Intern</div>
+      <div class="exp-desc">Self-supervised and vision-language representation learning for creative ranking</div>
+    </div>
+    <div class="exp-when">Mar 2024 – Jan 2025</div>
   </div>
-  <div class="hp-row">
-    <div class="what"><b><a href="https://www.nio.cn/">NIO Inc.</a></b>, Beijing<span class="sub">Research Collaborator — audio-driven digital humans for in-car assistants</span></div>
-    <div class="when">Feb 2023 – Apr 2024</div>
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.nio.cn/"><img src="/images/logos/nio.svg" alt="NIO"></a></div>
+    <div class="exp-body">
+      <div class="exp-role">Research Collaborator</div>
+      <div class="exp-desc">Audio-driven digital humans for in-car assistants</div>
+    </div>
+    <div class="exp-when">Feb 2023 – Apr 2024</div>
   </div>
 </div>
