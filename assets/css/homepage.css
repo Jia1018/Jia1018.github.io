@@ -250,16 +250,34 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
-/* ---------- sidebar / masthead / footer follow the same typeface ---------- */
+/* ---------- sidebar / masthead / footer follow the same typeface ----------
+   The theme sets font-family with nested selectors (.sidebar p, .sidebar .author__name,
+   .author__urls-wrapper, .masthead__inner-wrap ...), so these have to match that
+   specificity to win. Icon fonts are untouched: no rule here targets <i>. */
 .sidebar,
-.author__name,
-.author__bio,
+.sidebar p,
+.sidebar li,
+.sidebar h2,
+.sidebar h3,
+.sidebar h4,
+.sidebar h5,
+.sidebar h6,
+.sidebar .author__name,
+.sidebar .author__bio,
+.author__urls-wrapper,
 .author__urls,
+.author__urls li,
 .author__urls a,
+.masthead__inner-wrap,
+.masthead__menu-item,
 .masthead__menu-item a,
+.greedy-nav a,
 .page__title,
 .page__meta,
 .page__footer,
-.page__footer a {
+.page__footer p,
+.page__footer li,
+.page__footer a,
+.page__footer-follow li {
   font-family: "Source Serif 4", Charter, Georgia, "Times New Roman", serif;
 }
