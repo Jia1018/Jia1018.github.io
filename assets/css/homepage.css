@@ -360,10 +360,14 @@ html[data-theme="dark"] .exp-logo img {
 }
 
 /* ---------- type scale tweaks: bigger sidebar, calmer intro ---------- */
-/* name and bio live in the top bar / intro paragraph instead */
-.sidebar .author__name,
-.sidebar .author__bio {
+/* the full name is already in the top bar */
+.sidebar .author__name {
   display: none;
+}
+
+.sidebar .author__bio {
+  font-size: 1em;
+  margin-top: 0.2em;
 }
 
 .sidebar p,
