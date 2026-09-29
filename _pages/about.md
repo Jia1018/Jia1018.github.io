@@ -25,6 +25,7 @@ Earlier I worked on data-driven inverse problems in geometry processing, audio-d
 
 <div class="hp-news" markdown="0">
   <ul>
+    <li><span class="date">2026.09</span><span>Two papers accepted to <b>NeurIPS 2026</b>.</span></li>
     <li><span class="date">2026.06</span><span>One paper accepted to <b>ECCV 2026</b>.</span></li>
     <li><span class="date">2025.09</span><span>Started my PhD at the University of Edinburgh.</span></li>
     <li><span class="date">2024.12</span><span>Two papers accepted to <b>AAAI 2025</b> and <b>ICASSP 2025</b>.</span></li>
@@ -35,6 +36,46 @@ Earlier I worked on data-driven inverse problems in geometry processing, audio-d
 ## <i class="fas fa-file-lines"></i>Publications
 
 <div class="pub-list" markdown="0">
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/cinegen.jpg" alt="CineGen teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://jia1018.github.io/CineGEN/">Unveiling the Value of Motion for Cinematic Camera Trajectories</a>
+      </div>
+      <div class="pub-authors">
+        <span class="me">Ziqi Zhou</span>, Yujian Yuan, Laura Sevilla-Lara
+      </div>
+      <div class="pub-venue"><span class="tag">NeurIPS 2026</span>Conference on Neural Information Processing Systems</div>
+      <div class="pub-links">
+        <!-- arXiv not public yet: when it is, add href="https://arxiv.org/abs/XXXX.XXXXX" and remove class="is-disabled" / title -->
+        <a class="is-disabled" title="arXiv coming soon"><i class="fas fa-file-lines"></i>Paper</a>
+        <a href="https://jia1018.github.io/CineGEN/"><i class="fas fa-globe"></i>Project</a>
+        <a href="https://github.com/Jia1018/CineGEN"><i class="fab fa-github"></i>Code</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-teaser">
+      <img src="/images/publications/object-uni.jpg" alt="Object-Uni teaser">
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">
+        <a href="https://arxiv.org/abs/2608.22757">Object-Uni: A Unified Model for Object-Centric Spatial Understanding and Controllable Generation</a>
+      </div>
+      <div class="pub-authors">
+        Mining Tan*, Yinuo Wang*, <span class="me">Ziqi Zhou</span>, Weize Quan, Sifei Li, Jingdong Chen, Dandan Zheng, Libin Wang, Weiming Dong
+        <span class="pub-eq">(* equal contribution)</span>
+      </div>
+      <div class="pub-venue"><span class="tag">NeurIPS 2026</span>Conference on Neural Information Processing Systems</div>
+      <div class="pub-links">
+        <a href="https://arxiv.org/abs/2608.22757"><i class="fas fa-file-lines"></i>Paper</a>
+      </div>
+    </div>
+  </div>
 
   <div class="pub">
     <div class="pub-teaser">

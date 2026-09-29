@@ -192,6 +192,21 @@ html[data-theme="dark"] .hp-note {
   border-color: var(--global-link-color-hover);
 }
 
+/* link placeholder for a paper that is not public yet */
+.pub-links a.is-disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.pub-links a.is-disabled:hover {
+  border-color: var(--global-border-color);
+}
+
+.pub-eq {
+  font-size: 0.88em;
+  color: var(--global-text-color-light);
+}
+
 /* ---------- compact two-column rows (experience / education / awards) ---------- */
 .hp-rows {
   margin-bottom: 1em;
