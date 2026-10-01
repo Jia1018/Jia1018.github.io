@@ -50,8 +50,7 @@ Earlier I worked on data-driven inverse problems in geometry processing, audio-d
       </div>
       <div class="pub-venue"><span class="tag">NeurIPS 2026</span>Conference on Neural Information Processing Systems</div>
       <div class="pub-links">
-        <!-- arXiv not public yet: when it is, add href="https://arxiv.org/abs/XXXX.XXXXX" and remove class="is-disabled" / title -->
-        <a class="is-disabled" title="arXiv coming soon"><i class="fas fa-file-lines"></i>Paper</a>
+        <a href="https://arxiv.org/abs/2609.38683"><i class="fas fa-file-lines"></i>Paper</a>
         <a href="https://jia1018.github.io/CineGEN/"><i class="fas fa-globe"></i>Project</a>
         <a href="https://github.com/Jia1018/CineGEN"><i class="fab fa-github"></i>Code</a>
       </div>
